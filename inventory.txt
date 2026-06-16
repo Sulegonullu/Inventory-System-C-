@@ -1,0 +1,6 @@
+iksir 1 kilic 3
+kilic silah epic 2
+kilic silah common 1
+iksir rare ewe 3
+kilic wepon common 2
+iksir iksir rare 3
